@@ -1,0 +1,8 @@
+camera -1 -1 1 1 0.05 200
+ambient 1 1 1
+depth 0 200 (1 1 0)
+
+obj "self_12"
+ambient 1 0 0
+rotate Z 180
+obj "self_12"

@@ -1,0 +1,8 @@
+camera -1 -1 1 1 0.05 200
+
+ambient 0 1 1
+depth 0 200 (0 0 0)
+
+obj "self_12"
+surface 1 1 0
+obj "self_12"
